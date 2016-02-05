@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="developer_name">
+        <item>Rajan Maurya</item>
+        <item>Devesh Khandelwal</item>
+        <item>Pawan Pal</item>
+        <item>Sagar</item>
+    </string-array>
+
+    <string-array name="developer_mobileno">
+        <item>9015090523</item>
+        <item>9810297002</item>
+        <item>9958588841</item>
+        <item>8287501436</item>
+    </string-array>
+
+    <string-array name="developer_email">
+        <item>rajanmaurya154@gmail.com</item>
+        <item>devesh.khandelwal@outlook.com</item>
+        <item>pawanpal004@gmail.com</item>
+        <item>kumarsagar15795@gmail.com</item>
+    </string-array>
+
+    <string-array name="developer_image">
+        <item>https://avatars3.githubusercontent.com/u/5724482</item>
+        <item>https://avatars2.githubusercontent.com/u/8049092</item>
+        <item>https://lh3.googleusercontent.com/-sXbVp79Lq1U/AAAAAAAAAAI/AAAAAAAAAfk/ozvyIQT8NQY/s120-c/photo.jpg</item>
+        <item>https://avatars0.githubusercontent.com/u/5468111</item>
+    </string-array>
+
+
+    <string-array name="developerhome">
+        <item>Developer</item>
+        <item>Developer</item>
+        <item>Developer</item>
+        <item>Developer</item>
+    </string-array>
+
+    <string-array name="fbprofileid">
+        <item>http://fb.com/therajanmaurya</item>
+        <item>http://fb.com/devkh95</item>
+        <item>http://fb.com/pa1.pal</item>
+        <item>http://fb.com/sagarcic</item>
+    </string-array>
+
+    <string-array name="github">
+        <item>https://github.com/therajanmaurya</item>
+        <item>https://github.com/devkhan</item>
+        <item>https://github.com/pa1pal</item>
+        <item>https://github.com/sagar15795</item>
+    </string-array>
+
+</resources>
+
